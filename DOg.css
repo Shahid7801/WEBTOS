@@ -1,0 +1,32 @@
+*{
+      /* background: #73477d; */
+      margin:0 auto;
+}
+.image{
+      margin:0 auto;
+      color:rgb(159, 115, 58);
+      font-size:50px;
+      font-style: italic;
+      text-decoration: underline;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main{
+      margin:0 auto;
+      color:rgb(160, 146, 129);
+      text-align: center;
+      height: auto;
+      width:100%;
+      background-color: #000;
+      position: absolute;
+}
+button{
+   position:static;
+   color:black;
+   font-size: large;
+   background: rgb(196, 158, 231);
+}
+.api{
+      height:50%;
+      width: 50%;
+      background-size:cover;
+}
